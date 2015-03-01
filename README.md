@@ -49,7 +49,7 @@ Save this to "highlight.php"
 Then use the function on each page. For example, in the "home.php" page, we would use the PHP function like this:
 
 ```php
-<?php 'include' highlight.php' ?>
+<?php include 'highlight.php' ?>
 <?php highlight("home") ?>
 ```
 
